@@ -1,0 +1,19 @@
+.grid {
+    display: grid;
+    grid-template-rows: repeat(auto-fill, minmax(100px, 1fr)); 
+    align-items: center;
+    justify-content: center;
+  }
+
+.row {
+    display: flex;
+}
+
+.cell {
+    /* width: 100%; */
+    padding: 80px;
+    margin: 6px;
+    border-radius: 6px;
+    border: 2px solid #bdc3ca; 
+}
+  
