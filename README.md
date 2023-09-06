@@ -1,4 +1,4 @@
-# Grid Classwork
+# Grid Assignment
 
 ![2 * 4](https://res.cloudinary.com/drnqdd87d/image/upload/v1693414503/altschool/oxtmohuvcsswye05wppl.png)
 
